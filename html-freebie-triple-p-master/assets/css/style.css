@@ -44,7 +44,7 @@ html, body {
  */
 .btn {
   font-family: "Varela", sans-serif;
-  background-color: #196fc2;
+  background-color: #0cffaa;
   padding: 0 15px;
   color: #ffffff;
   height: 44px;
@@ -70,8 +70,8 @@ html, body {
 .btn-inverted:hover,
 .btn-inverted:focus {
   color: #ffffff;
-  background-color: #196fc2;
-  border-color: #196fc2;
+  background-color: #0cffaa;
+  border-color: black;
 }
 
 /* 
@@ -117,7 +117,7 @@ html, body {
   margin: 0 auto;
   width: 230px;
   height: 230px;
-  background-color: #196fc2;
+  background-color: #0cffaa;
   border: 0;
   transform: translate(-50%, -50%) rotate(45deg);
   -webkit-transform: translate(-50%, -50%) rotate(45deg);
@@ -279,7 +279,7 @@ html, body {
   position: relative;
   padding: 0 30px 0 15px;
   height: 60px;
-  background-color: #004b91;
+  background-color:#0cffaa;
   z-index: 2;
 }
 
@@ -290,7 +290,7 @@ html, body {
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #004b91;
+  background-color: #0cffaa;
 }
 
 .site-logo a {
@@ -300,13 +300,13 @@ html, body {
   margin-top: 17px;
   font-size: 26px;
   line-height: 26px;
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
 }
 
 /* Navigation */
 .site-navigation {
-  background-color: #196fc2;
+  background-color: #28292a;
 }
 
 .site-navigation.affix {
@@ -403,7 +403,7 @@ html, body {
   }
   .site-navigation .navbar-collapse {
     position: relative;
-    background-color: #196fc0;
+    background-color: #1cffbb;
     z-index: 99;
     text-align: center;
     border-top: 0;
